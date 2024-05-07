@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Munka\\VS\\LAB_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F02461-F695-4AB3-9F37-BDF7F1C99F1B}|LAB_11\\LAB_11.vcxproj|C:\\Munka\\VS\\LAB_11\\LAB_11\\lab_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34F02461-F695-4AB3-9F37-BDF7F1C99F1B}|LAB_11\\LAB_11.vcxproj|solutionrelative:LAB_11\\lab_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_11.cpp",
+              "DocumentMoniker": "C:\\Munka\\VS\\LAB_11\\LAB_11\\lab_11.cpp",
+              "RelativeDocumentMoniker": "LAB_11\\lab_11.cpp",
+              "ToolTip": "C:\\Munka\\VS\\LAB_11\\LAB_11\\lab_11.cpp",
+              "RelativeToolTip": "LAB_11\\lab_11.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T08:10:02.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
